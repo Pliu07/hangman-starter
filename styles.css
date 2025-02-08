@@ -1,1 +1,45 @@
 /* Add CSS styles for your web site here and use them in index.html. */
+body{
+    background-color:white;
+    
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 400;
+    
+
+}
+.container{
+    width: 80%;
+    margin:auto
+}
+.box-1{
+    background-color: pink;
+    margin:0;
+    border: 5px grey solid;
+    padding:70px;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+button{
+    background-color:white;
+}
+h1 {
+	color: white;
+    font-weight: 800;
+    font-family: "Tahoma';
+}
+#myDiv {
+	font-size: 36px;
+}
+h3{
+
+	color: white;
+}
+h4{
+
+	color: white;
+}
+.numGuesses{
+    color: aliceblue;
+}
